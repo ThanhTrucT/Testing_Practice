@@ -1,1 +1,0 @@
-SauceDemo manual testing files
